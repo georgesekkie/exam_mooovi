@@ -2,7 +2,7 @@
 適当な場所に以下のプロジェクトをクローンしましょう
 
 ```
-git clone https://github.com/keitin/weekly_mooovi.git
+git clone https://github.com/georgesekkie/weekly_mooovi.git
 ```
 
 ディレクトリを移動して以下のコマンド順々に打ちましょう。
